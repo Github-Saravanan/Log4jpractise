@@ -1,0 +1,4 @@
+2021-11-27 12:15:45 INFO  Sample:18 - Hello this is an info message
+2021-11-27 12:15:45 WARN  Sample:19 - Hello this is an warning message
+2021-11-27 12:15:45 ERROR Sample:20 - Hello this is an error message
+2021-11-27 12:15:45 FATAL Sample:21 - Hello this is an fatal message
